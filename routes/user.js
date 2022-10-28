@@ -3,7 +3,7 @@ const { Router } = require("express");
 const router = Router();
 
 router.get("/", (req, res) => {
-  const slackUsername = "KINGSLEY AHAM";
+  const slackUsername = "Zublexo";
   const backend = true;
   const age = 22;
   const bio =
